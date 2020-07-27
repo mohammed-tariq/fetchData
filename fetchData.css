@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(216, 206, 206);
+}
+
+.main{
+    text-align: center;
+}
+
+.main input{
+    width: 150px;
+    margin-right: 10px;
+    height: 50px;
+}
+
+.result{
+    font-size: large;
+}
